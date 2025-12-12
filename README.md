@@ -1,4 +1,5 @@
 # STATS_414_Final_Project
+Amber Jiang		 Runlong Xu 		Daniel Yao
 
 Code for 414 Final Project.
 
